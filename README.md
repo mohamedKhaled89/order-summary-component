@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedKhaled89/nft-preview-card-component]
-- Live Site URL: [https://mohamedkhaled89.github.io/nft-preview-card-component/]
+- Solution URL: [https://github.com/mohamedKhaled89/order-summary-component]
+- Live Site URL: [https://mohamedkhaled89.github.io/order-summary-component/]
 
 ## My process
 
